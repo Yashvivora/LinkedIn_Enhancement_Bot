@@ -8,9 +8,6 @@ This is a LinkedIn Enhancement Bot that analyzes LinkedIn profiles, provides fee
 - **Improved Content Generation**: Generates enhanced text for each section based on the feedback.
 - **Database Storage**: Stores the scraped profile data in an SQLite database for future reference.
 - **Streamlit Application**: Interactive UI built with Streamlit that allows users to enter a LinkedIn URL and view feedback and improvements.
-- **Optional Features**:
-  - API Endpoint for the same functionality (can be added).
-  - Customize profile sections to align with specific job roles.
 
 ## Table of Contents
 - [Project Structure](#project-structure)
